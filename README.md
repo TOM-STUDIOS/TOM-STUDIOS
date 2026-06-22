@@ -1,8 +1,6 @@
 
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-39FF14?style=for-the-badge&logo=adobecreativecloud&logoColor=000000)
-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-39FF14?style=for-the-badge&logo=bootstrap&logoColor=000000)
-
 ![Canva](https://img.shields.io/badge/Canva-39FF14?style=for-the-badge&logo=canva&logoColor=000000)
 
 ![CSS3](https://img.shields.io/badge/CSS3-39FF14?style=for-the-badge&logo=css3&logoColor=000000)
