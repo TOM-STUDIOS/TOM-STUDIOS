@@ -9,7 +9,7 @@ My old account got Thanos-snapped. This new one? Immortal
 ![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logoColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logoColor=000000)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-1E90FF?style=for-the-badge&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logoColor=000000)
+[![HTML](https://img.shields.io/badge/HTML-3B82F6?style=for-the-badge)](https://canva.link/57s1ph1gylvzum7)
 ![Java](https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logoColor=000000)
 ![Vite](https://img.shields.io/badge/Vite-1E90FF?style=for-the-badge&logoColor=000000)
