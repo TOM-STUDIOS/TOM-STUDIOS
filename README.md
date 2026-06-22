@@ -4,7 +4,7 @@ My old account got Thanos-snapped. This new one? Immortal
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1E90FF?style=for-the-badge&logoColor=000000)
 ![Canva](https://img.shields.io/badge/Canva-1E90FF?style=for-the-badge&logoColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logoColor=000000)
-![Figma](https://img.shields.io/badge/Figma-1E90FF?style=for-the-badge&logoColor=000000)(https://www.figma.com/design/aiXak9YnhNITZTD9HeXevA/FIGMA-PROFILE?node-id=0-1&t=M739Xr6XgEybCO2A-1)
+[![Figma](https://img.shields.io/badge/Figma-3B82F6?style=for-the-badge)](https://www.figma.com/design/aiXak9YnhNITZTD9HeXevA/FIGMA-PROFILE?node-id=0-1&t=M739Xr6XgEybCO2A-1)
 ![Firebase](https://img.shields.io/badge/Firebase-1E90FF?style=for-the-badge&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logoColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logoColor=000000)
