@@ -13,9 +13,3 @@ My old account got Thanos-snapped. This new one? Immortal
 ![Java](https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logoColor=000000)
 ![Vite](https://img.shields.io/badge/Vite-1E90FF?style=for-the-badge&logoColor=000000)
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TOM-STUDIOS/TOM-STUDIOS/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TOM-STUDIOS/TOM-STUDIOS/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TOM-STUDIOS/TOM-STUDIOS/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
