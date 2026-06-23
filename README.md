@@ -8,14 +8,11 @@ My old account got Thanos-snapped. This new one? Immortal
 ![Firebase](https://img.shields.io/badge/Firebase-1E90FF?style=for-the-badge&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logoColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logoColor=000000)
+<img data-importer="image" align="left" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFvajhlem8zb3NqdWdxNnFuM2NibXhtaHB2c3dlMGEya25oOXNsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLYreJ3Xej7thC4jO1/giphy.gif"  />
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-1E90FF?style=for-the-badge&logoColor=000000)
 [![HTML](https://img.shields.io/badge/HTML-3B82F6?style=for-the-badge)](https://www.canva.com/design/XXXXXXXXXXXX/view)
 ![Java](https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logoColor=000000)
 ![Vite](https://img.shields.io/badge/Vite-1E90FF?style=for-the-badge&logoColor=000000)
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGswN2g1dHBucW80cHh5cjQwa2E1Yno0ZTc5cmVpanp4NGh6ZXRoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
-</div>
 
 
