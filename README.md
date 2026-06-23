@@ -7,6 +7,7 @@ My old account got Thanos-snapped. This new one? Immortal
 [![Figma](https://img.shields.io/badge/Figma-3B82F6?style=for-the-badge)](https://www.figma.com/design/aiXak9YnhNITZTD9HeXevA/FIGMA-PROFILE?node-id=0-1&t=M739Xr6XgEybCO2A-1)
 ![Firebase](https://img.shields.io/badge/Firebase-1E90FF?style=for-the-badge&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logoColor=000000)
+
 ![GitHub](https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logoColor=000000)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-1E90FF?style=for-the-badge&logoColor=000000)
 [![HTML](https://img.shields.io/badge/HTML-3B82F6?style=for-the-badge)](https://www.canva.com/design/XXXXXXXXXXXX/view)
