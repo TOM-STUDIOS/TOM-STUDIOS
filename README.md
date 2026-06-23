@@ -14,4 +14,8 @@ My old account got Thanos-snapped. This new one? Immortal
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logoColor=000000)
 ![Vite](https://img.shields.io/badge/Vite-1E90FF?style=for-the-badge&logoColor=000000)
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGswN2g1dHBucW80cHh5cjQwa2E1Yno0ZTc5cmVpanp4NGh6ZXRoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+</div>
+
 
